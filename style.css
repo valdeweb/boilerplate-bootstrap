@@ -5,7 +5,30 @@
 body{
    background-color: #661941;
    color: whitesmoke;
+   text-align: justify;
+}
+h1{
+    color: greenyellow;
+    margin: 1.5em;
+   
+}
+h4{
+    color: greenyellow;
+    margin: 1em;
+    padding: .5em;
+   
 }
 figure{
     overflow: hidden;
+    margin: .5em;
+    
+}
+img{
+    border: solid .3em whitesmoke;
+}
+p{
+    font-size: 1.3em;
+}
+.btn btn-success{
+    
 }
